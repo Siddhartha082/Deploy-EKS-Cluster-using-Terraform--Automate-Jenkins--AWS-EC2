@@ -14,7 +14,7 @@ Terraform, Kubernetes, and Jenkins to automate the deployment of EKS clusters an
 # Architecture
 ![image](https://github.com/user-attachments/assets/9c578639-e24b-4c3e-af85-9bd782055b32)
 
-# Note - 
+# Note - step by step process explained in detail + Deployment in PDF format(notes.pdf)
 
 ```markdown
 # CICD-Terraform-EKS
