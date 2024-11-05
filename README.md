@@ -1,3 +1,21 @@
+#In world of cloud infrastructure and DevOps automation! seamless deployment of an EKS (Amazon Elastic Kubernetes Service) cluster on AWS using Terraform.  
+Automate the deployment of an Nginx application onto this EKS cluster, all orchestrated by a Jenkins CI/CD pipeline. 
+
+1. Set up your AWS environment for EKS cluster deployment.
+
+2. Utilize Terraform to define infrastructure as code, configuring the EKS cluster effortlessly.
+
+3. Automate the deployment of an Nginx application onto the EKS cluster using Kubernetes manifests
+
+4. Configure Jenkins CI/CD pipeline to automate the entire process, from code commit to deployment.
+
+Terraform, Kubernetes, and Jenkins to automate the deployment of EKS clusters and applications, streamlining  DevOps workflows and increasing efficiency.
+
+# Architecture
+![image](https://github.com/user-attachments/assets/9c578639-e24b-4c3e-af85-9bd782055b32)
+
+# Note - 
+
 ```markdown
 # CICD-Terraform-EKS
 
